@@ -76,8 +76,8 @@ and this *.sitemap file:
 
 You can change weather icons. icons are in < openhab\_install\_direstory >/webapps/images. Icons name must be "openweathermap_*" where * is zhe name of specific icon. Name are:
 
-Day  | Night
-------------- | -------------
+Day  | Night | weather condition
+------------- | ------------- | -------------
 01d.png | 01n.png | sky is clear
 02d.png | 02n.png | few clouds
 03d.png | 03n.png | scattered clouds
